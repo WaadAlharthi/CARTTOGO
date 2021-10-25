@@ -4,6 +4,7 @@ html, body {
 	padding: 20;
 	font-family: Verdana, arial, helvetica, sans-serif;
 	font-size: 11pt;
+	text-align: center;
 	color: rgb(20,20,20);
 	height: 100%;
 }
