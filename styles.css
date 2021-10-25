@@ -66,8 +66,8 @@ h4  {
 
 a:link    {color: #01145e;}
 a:visited {color: #01145e;}
-a:hover   {color: rgb(80,176,176)}
-a:active  {color: rgb(80,176,176)}
+a:hover   {color: rgb(255,22,20)}
+a:active  {color: rgb(255,22,20)}
 
 #main {
 	margin: 10px 10px 0px 200px;
