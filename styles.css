@@ -61,10 +61,6 @@ h4  {
 	background:transparent;
 }
 
-#links a:link       {background: rgba(225, 150, 120,0.9); color: rgb(130, 50, 50);}
-#links a:visited {background: rgba(225, 150, 120,0.9); color: rgb(130, 50, 50);}
-#links a:hover     {background: rgba(190, 70,60,0.9); color: rgb(250,240,240)}
-#links a:active  {background: rgba(130, 50, 50,0.9); color: rgb(250,240,240)}
 
 
 a:link    {color: #01145e;}
