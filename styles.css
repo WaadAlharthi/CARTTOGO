@@ -9,8 +9,8 @@ html, body {
 	height: 100%;
 }
 
-li{
-	padding: 40;
+ul, li{
+	padding: 60;
 	text-align: left;
 
 }
