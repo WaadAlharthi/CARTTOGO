@@ -9,6 +9,12 @@ html, body {
 	height: 100%;
 }
 
+li{
+	padding: 40;
+	text-align: left;
+
+}
+
 h1  {
 	color: rgb(20,20,20);
 	font-family: Verdana, arial, helvetica, sans-serif;
